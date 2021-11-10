@@ -1,6 +1,4 @@
-# Default ignored files
-/.idea/*.xml
-
-*.class
-/.idea/libraries
+/.idea
+/out
+/target
 *.iml
